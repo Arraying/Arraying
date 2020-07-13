@@ -8,5 +8,5 @@ I'm Arraying.
 - 😔 I dislike: frontend development (though fullstack is bearable with CSS frameworks)
 - ➡️ I indent using: my tab button bound to 4 (common) or 2 (uncommon) spaces
 - 💬 Ask me about: why I implemented something the way I did
-- 📫 How to reach me: shoot me a message on Twitter or Discord
+- 📫 How to reach me: shoot me a message on Twitter or Discord (#7363)
 - ⚡ Fun fact: while I strongly dislike literary analysis, I am a published poet
