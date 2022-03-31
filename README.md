@@ -2,7 +2,7 @@
 
 I'm currently pursuing a Bachelor of Science in **Computer Science & Engineering**  
 👉 I'm specializing in **data** (big data, data mining, ML, etc.)  
-👉 Software engineering is cool, but currently I'm very interested in machine learning, spreadsheets, statistics, facts & figures
+👉 Software engineering is cool, but currently I'm very interested in programming languages and functional programming.
 
 Over the years I have learned a lot of languages!  
 Here is a list of what I know to various degrees:
@@ -22,7 +22,7 @@ Here is a list of what I know to various degrees:
   - 🦏 Nashorn
 - 🐍 **Python**
   - ✍️ Jupyter Notebook
-  - 🔢 NumPy
+  - 🔢 NumPy, Pandas, MatPlotLib
 - 💾 **Databases/Caches**
   - 🐘 PostgreSQL
   - 🐬 MariaDB
