@@ -1,39 +1,13 @@
 # Welcome to my profile! 👋
 
-I'm currently pursuing a Bachelor of Science in **Computer Science & Engineering**  
-👉 I'm specializing in **data** (big data, data mining, ML, etc.)  
-👉 Software engineering is cool, but currently I'm very interested in programming languages and functional programming.
+I'm currently an undergraduate studying **Computer Science & Engineering**.  
+👉 My interests currently resolve around programming and programming languages, DevOps and distributed systems.  
+👉 In the past years I've covered a lot of breadth of topics, feel free to have a look around in my repositories :)  
 
-Over the years I have learned a lot of languages!  
-Here is a list of what I know to various degrees:
+I used to maintain a list of programming languages and technologies I worked with. This list got very long (and to be honest, I'm not particularly proficient at most of them!) so instead I'll list a few significant to me:
+- 🎩 **Scala** is my favourite programming language (I wish I had more applications for it!).
+- ☕ **Java** is by far my strongest language.
+- 🔢 **Haskell** is a language I wish I was better at.
+- 🏗️ **TypeScript** is the language I probably use most frequently on a day-to-day basis.
+- 🐘 **PostgreSQL** is my go-to RDBMS.
 
-
-- 🤓 **x86_64** Assembly [GAS Syntax]
-- 🏎️ **ANSI-C/C++**
-- ⚙️ **Rust**
-- 🐹 **Go**
-- ☕ **Java**
-   - 🌱 Spring
-   - ⛏️ BungeeCord, Spigot & Co.
-- 🎩 **Scala/Kotlin**
-- 😢 **JavaScript**
-  - 🪓 Node.js/ES6
-  - 📈 AJAX/jQuery
-  - 🦏 Nashorn
-- 🐍 **Python**
-  - ✍️ Jupyter Notebook
-  - 🔢 NumPy, Pandas, MatPlotLib
-- 💾 **Databases/Caches**
-  - 🐘 PostgreSQL
-  - 🐬 MariaDB
-  - 👁️ Cassandra
-  - 🗄️ Redis
-- 📰 **LaTeX**
-  - 📚 BibLaTeX
-- 🖍️ **Markup**
-  - 🌐 HTML/CSS/ejs/Pug
-  - 🎈 JSON/XML
-
-👉 I am very **busy**, I may not take on new projects  
-👉 I indent with **4** (sometimes 2) **spaces**, and I adhere to language-specific style guides  
-👉 You can contact me on Discord - **Arraying#7363**
