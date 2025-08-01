@@ -1,9 +1,10 @@
 # Welcome to my profile! 👋
 
-I'm a graduate student in Software Engineering of Distributed Systems at KTH Royal Institute of Technology. My current (research) interests are:
+I'm a JVM Runtime Engineer at Oracle, meaning I contribute to HotSpot for the [OpenJDK project](https://openjdk.org). Before that, I studied at KTH Royal Institute of Technology (MSc) and TU Delft (BSc). 
+
+I generally have an interest in programming languages. Some things I've sidequested in are:
 - 🕸️ Distributed systems
 - 🏎️ High performance computing
-- 🏗️ Compilers
 - ✨ Artificial intelligence
 
-Feel free to have a look around in my [repositories](https://github.com/Arraying?tab=repositories) :)  
+Feel free to poke around in my [repositories](https://github.com/Arraying?tab=repositories), or take a look at [my website/blog](https://arraying.de).
