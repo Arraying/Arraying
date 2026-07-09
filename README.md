@@ -1,8 +1,10 @@
 # Welcome to my profile! 👋
 
-I'm a JVM Runtime Engineer at Oracle, meaning I contribute to HotSpot for the [OpenJDK project](https://openjdk.org). Before that, I studied at KTH Royal Institute of Technology (MSc) and TU Delft (BSc). 
+I'm a software engineer and contributor to the HotSpot JVM as part of [OpenJDK](https://openjdk.org). Before that, I studied at KTH Royal Institute of Technology (MSc) and TU Delft (BSc). 
 
-I generally have an interest in programming languages. Some things I've sidequested in are:
+I like interesting proglems. Some domains I've main & side-quested in are:
+- ☕ Programming languages & their implementations
+- 🏗️ Platforms, infrastructure & reliability, incl. DevOps
 - 🕸️ Distributed systems
 - 🏎️ High performance computing
 - ✨ Artificial intelligence
